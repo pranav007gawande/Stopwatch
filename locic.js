@@ -23,7 +23,7 @@ function stopWatch()
                 hour.innerText=hh
             }
         }
-    },100);
+    },1000);
 }
 
 let starttime=document.getElementById('Starttime');

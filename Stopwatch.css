@@ -1,0 +1,42 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.container
+{
+    height: 330px;
+    width: 350px;
+    margin: 200px 550px;
+    border-radius: 50%;
+    background-color:#38c849ba;;
+    border: 10px double  rgb(181 17 17);
+    padding: 20px;
+}
+.main
+{
+    
+    
+    font-size: 38px;
+}
+
+button
+{
+    margin: 15px;
+    height: 35px;
+    width: 18vh;
+    font-size: 20px;
+   margin-top: 50px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+ button:hover
+{
+background-color: rgb(189, 111, 55);
+}
+h1{
+    color: rgb(247, 8, 56);
+    text-decoration: underline rgb(232, 102, 10);
+}

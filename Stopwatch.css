@@ -10,7 +10,7 @@
     width: 350px;
     margin: 200px 550px;
     border-radius: 50%;
-    background-color:#38c849ba;;
+    background-color:#c3df21ba;;
     border: 10px double  rgb(181 17 17);
     padding: 20px;
 }
@@ -34,7 +34,7 @@ button
 
  button:hover
 {
-background-color: rgb(189, 111, 55);
+background-color: rgb(220, 234, 16);
 }
 h1{
     color: rgb(247, 8, 56);
